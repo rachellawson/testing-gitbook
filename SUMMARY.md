@@ -19,6 +19,11 @@
 * [Technical Committee](our-teams/technical-committee.md)
 * [Code of Conduct Team](our-teams/code-of-conduct-team.md)
 
+## Building Block Working Groups
+
+* [What are Building Blocks?](building-block-working-groups/what-are-building-blocks.md)
+* [Architecture](building-block-working-groups/architecture.md)
+
 ## The tools we use
 
 * [Page 1](the-tools-we-use/page-1.md)
