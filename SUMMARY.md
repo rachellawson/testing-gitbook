@@ -16,6 +16,8 @@
 
 * [Governance Committee](our-teams/governance-committee.md)
 * [Product Commmittee](our-teams/product-committee.md)
+* [Technical Committee](our-teams/technical-committee.md)
+* [Code of Conduct Team](our-teams/code-of-conduct-team.md)
 
 ## The tools we use
 

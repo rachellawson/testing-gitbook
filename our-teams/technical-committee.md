@@ -1,14 +1,14 @@
-# Product Commmittee
+# Technical Commmittee
 
-The purpose of the xxxxxxxxxxx committee is to provide
+The purpose of the Technical Committee is to provide
 
 ### Charter
 
 #### Primary Functions and Approval Responsibilities
 
-The primary function of the GovStack Product Committee is to
+The primary function of the GovStack Technical Committee is to
 
-Members of the Product Committee ensure that
+Members of the xxxxxxxxx Committee ensure that
 
 General
 
@@ -21,9 +21,9 @@ General
 
 xxx
 
-#### Role of Product Committee members
+#### Role of Committee members
 
-xxx Product Committee members should:
+xxx Technical Committee members should:
 
 1. Understand the strategic implications and outcomes of proposals and initiatives being pursued through various partner organizations;
 2. Appreciate the significance of the Initiative for some or all major stakeholders and represent their interests;
@@ -35,23 +35,22 @@ In practice, this means they:
 1. Ensure that the Initiative's outputs meet the requirements of key stakeholders and partners;
 2. Contribute regularly to the Community by actively assisting other members with time, resources, and networks;
 3. Provide guidance to the other Community committees and partners involved in GovStack projects;
-4. Submit meeting agenda items to the Governance Committee chair Keep the Governance committee informed about new GovStack implementation(s) that the member undertook through other funding mechanisms, provide periodic status updates, and contribute code for the benefit of the Community.
+4. Submit meeting agenda items to the Technical Committee chair Keep the Governance committee informed about new GovStack implementation(s) that the member undertook through other funding mechanisms, provide periodic status updates, and contribute code for the benefit of the Community.
 5. Foster positive communication within and outside of the Governance Committee regarding the Initiative and its outcomes.
 
 #### Committee Chair
 
-The Product Committee elects a rotating chair on a monthly basis. The chair will facilitate Product Committee meeting instances during that time period. The Committee will follow modified Robert’s Rules of Order (12th edition) in the conduct of meetings, motions, discussion, and voting.
+The Committee elects a rotating chair on a monthly basis. The chair will facilitate Committee meeting instances during that time period. The Committee will follow modified Robert’s Rules of Order (12th edition) in the conduct of meetings, motions, discussion, and voting.
 
 #### Committee Secretary
 
-The Secretary is responsible for the overall documentation of Committee activities, including moderating communications, assisting the Chair in facilitating discussion during Committee calls, and maintaining transparency and public documentation of Product activities on the GovStack wiki.
+The Secretary is responsible for the overall documentation of Committee activities, including moderating communications, assisting the Chair in facilitating discussion during Committee calls, and maintaining transparency and public documentation of activities on the GovStack wiki.
 
 The Secretary will also:
 
 1. Record and follow up on action items from calls and discussions;
 2. Manage recordings and notes from calls and meetings;
 3. Facilitate the voting process and ensure communication amongst Committee members;
-4. Coordinate with the Governance and Technical Committees to ensure clear and transparent communication between committees;
 
 The role of the Secretary is approved by the Committee.
 

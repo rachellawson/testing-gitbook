@@ -1,14 +1,13 @@
-# Product Commmittee
-
-The purpose of the xxxxxxxxxxx committee is to provide
+Code of Conduct Team
+The purpose of the Code of Conduct team is to provide
 
 ### Charter
 
 #### Primary Functions and Approval Responsibilities
 
-The primary function of the GovStack Product Committee is to
+The primary function of the Code of Conduct Team is to
 
-Members of the Product Committee ensure that
+Members of the Code of Conduct Team ensure that
 
 General
 
@@ -21,9 +20,9 @@ General
 
 xxx
 
-#### Role of Product Committee members
+#### Role of Governance Committee members
 
-xxx Product Committee members should:
+xxx Code of Conduct Team members should:
 
 1. Understand the strategic implications and outcomes of proposals and initiatives being pursued through various partner organizations;
 2. Appreciate the significance of the Initiative for some or all major stakeholders and represent their interests;
@@ -40,26 +39,25 @@ In practice, this means they:
 
 #### Committee Chair
 
-The Product Committee elects a rotating chair on a monthly basis. The chair will facilitate Product Committee meeting instances during that time period. The Committee will follow modified Robert’s Rules of Order (12th edition) in the conduct of meetings, motions, discussion, and voting.
+The Code of Conduct Team elects a rotating chair on a monthly basis. The chair will facilitate Code of Conduct Team meeting instances during that time period. The Code of Conduct Team will follow modified Robert’s Rules of Order (12th edition) in the conduct of meetings, motions, discussion, and voting.
 
 #### Committee Secretary
 
-The Secretary is responsible for the overall documentation of Committee activities, including moderating communications, assisting the Chair in facilitating discussion during Committee calls, and maintaining transparency and public documentation of Product activities on the GovStack wiki.
+The Secretary is responsible for the overall documentation of Code of Conduct Team activities, including moderating communications, assisting the Chair in facilitating discussion during calls, and maintaining transparency and public documentation of activities on the GovStack wiki.
 
 The Secretary will also:
 
 1. Record and follow up on action items from calls and discussions;
 2. Manage recordings and notes from calls and meetings;
-3. Facilitate the voting process and ensure communication amongst Committee members;
-4. Coordinate with the Governance and Technical Committees to ensure clear and transparent communication between committees;
+3. Facilitate the voting process and ensure communication amongst members;
 
-The role of the Secretary is approved by the Committee.
+The role of the Secretary is approved by the Code of Conduct Team.
 
 #### Voting and Agreement Process
 
-* The main responsibility of the Committee lies in the management of xxxxxxxxx.
+* The main responsibility of the Code of Conduct Team lies in the management of xxxxxxxxx.
 * The decision-making process is based on reaching consensus through discussion and voting.
-* Changes to the Committee Charter require a ⅔ majority vote during a Governance Committee meeting instance.
+* Changes to the Code of Conduct Team Charter require a ⅔ majority vote during a Governance Committee meeting instance.
 * The Governance Committee should review the charter on an annual basis.
 
 ### Meetings
