@@ -17,7 +17,9 @@
 * [Governance Committee](our-teams/governance-committee.md)
 * [Product Commmittee](our-teams/product-committee.md)
 * [Technical Committee](our-teams/technical-committee.md)
-* [Code of Conduct Team](our-teams/code-of-conduct-team.md)
+* [Code of Conduct Team](our-teams/code-of-conduct-team/README.md)
+  * [Conduct Enforcement Process](our-teams/code-of-conduct-team/conduct-enforcement-process.md)
+  * [Conflict Resolution Process](our-teams/code-of-conduct-team/conflict-resolution-process.md)
 
 ## Building Block Working Groups
 
@@ -29,8 +31,6 @@
 * [Payments](building-block-working-groups/payments.md)
 * [Sandbox](building-block-working-groups/sandbox.md)
 * [Security](building-block-working-groups/security.md)
-
-
 
 ## The tools we use
 
