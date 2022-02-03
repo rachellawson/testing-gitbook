@@ -23,6 +23,14 @@
 
 * [What are Building Blocks?](building-block-working-groups/what-are-building-blocks.md)
 * [Architecture](building-block-working-groups/architecture.md)
+* [Consent](building-block-working-groups/consent.md)
+* [Identity](building-block-working-groups/identity.md)
+* [Information Mediator](building-block-working-groups/information-mediator.md)
+* [Payments](building-block-working-groups/payments.md)
+* [Sandbox](building-block-working-groups/sandbox.md)
+* [Security](building-block-working-groups/security.md)
+
+
 
 ## The tools we use
 
