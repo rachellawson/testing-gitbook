@@ -1,5 +1,7 @@
 ---
 coverY: 0
+cover: >-
+  .gitbook/assets/GovStack_BackgroundVisual_Icons_1920x1080@2x-min-2880x1644-c-center.png
 ---
 
 # Welcome!
