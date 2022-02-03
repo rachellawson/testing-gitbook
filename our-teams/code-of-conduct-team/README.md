@@ -1,14 +1,12 @@
 # Code of Conduct Team
 
-Code of Conduct Team The purpose of the Code of Conduct team is to provide
+The purpose of the Code of Conduct team is to provide Code of Conduct enforcement and conflict resolution support to the GovStack community, in support of the Governance Committee.
 
 ### Charter
 
 **Primary Functions and Approval Responsibilities**
 
-The primary function of the Code of Conduct Team is to
-
-Members of the Code of Conduct Team ensure that
+The primary function of the Code of Conduct Team is to provide Code of Conduct enforcement and conflict resolution support to the GovStack community, in support of the Governance Committee.
 
 General
 

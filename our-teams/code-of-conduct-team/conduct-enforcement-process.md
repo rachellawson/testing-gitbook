@@ -34,11 +34,11 @@ The Master Incident Log contains a summary of each individual incident so that w
 
 The log must always remain private, accessible only to members of the team, but contains the following columns:
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
+| Issue Reporter | Issue About | Conduct Enforcement or Conflict Resolution | Summary                         | Impact \* Likelihood of Recurrence = risk | Team Lead | Diary Link |
+| -------------- | ----------- | ------------------------------------------ | ------------------------------- | ----------------------------------------- | --------- | ---------- |
+| Noah           | Alice       | Conflict                                   | Offensive comments in tech docs | 2 \* 1 = 2                                | Rachel    | xxxx.yyy   |
+|                |             |                                            |                                 |                                           |           |            |
+|                |             |                                            |                                 |                                           |           |            |
 
 We determine the level of risk we are facing, using the “Likelihood of reccurence” and “impact” tools. If an issue is likely to reccur without intervention AND the impact is medium or high, we know that we must use stronger actions when we intervene.
 
