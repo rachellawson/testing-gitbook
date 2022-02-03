@@ -2,7 +2,7 @@
 
 ### Our Vision
 
-xxxx xx xxxx xxx xxxxx xxx xxx xxxxx xxxxx xxxx x
+Our vision is that in five years, we can empower governments to take ownership of their digital futures by building more effective and cost-efficient digital government services.
 
 ### Our Principles
 
@@ -37,4 +37,3 @@ We will ensure a seamless exchange of information across applications and delive
 #### Citizen-centric
 
 Design will be centered around typical high-priority User Journeys and Use Cases related to the SDGs.
-
