@@ -1,6 +1,6 @@
-# Architecture
+# Consent
 
-The Architecture Building Block is ...
+The Consent Building Block is ...
 
 ### Where we work
 

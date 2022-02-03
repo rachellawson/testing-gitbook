@@ -1,6 +1,6 @@
-# Architecture
+# Sandbox
 
-The Architecture Building Block is ...
+The Sandbox Building Block is ...
 
 ### Where we work
 

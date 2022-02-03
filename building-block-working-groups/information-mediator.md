@@ -1,6 +1,6 @@
-# Architecture
+# Information Mediator
 
-The Architecture Building Block is ...
+The Information Mediator Building Block is ...
 
 ### Where we work
 

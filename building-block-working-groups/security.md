@@ -1,6 +1,6 @@
-# Payments
+# Security
 
-The Payments Building Block is ...
+The Security Building Block is ...
 
 ### Where we work
 
