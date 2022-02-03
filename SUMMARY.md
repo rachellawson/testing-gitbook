@@ -15,6 +15,7 @@
 ## Our Teams
 
 * [Governance Committee](our-teams/governance-committee.md)
+* [Product Commmittee](our-teams/product-committee.md)
 
 ## The tools we use
 
