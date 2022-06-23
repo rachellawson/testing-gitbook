@@ -30,16 +30,7 @@ body:
     id: what-problem
     attributes:
       label: What is the problem you see?
-      description: What do you consider to be incorrect and why is is incorrect?
-      value: |
-        **Please describe the problem you see**
-        A clear and concise description of what the problem is. Ex. I think we need to change [...]
-
-        **Describe the solution you'd like**
-        A clear and concise description of what change you propose. Consider how the change proposed further connects the specification to the [SDG Digital Investment Framework](https://dial.global/research/sdg-digital-investment-framework/)
-
-        **Describe alternatives you've considered**
-        A clear and concise description of any alternative solutions you've considered.
+      description: What do you consider to be incorrect and why is is incorrect? Can you also suggest some alternative text?
     validations:
       required: true
 
