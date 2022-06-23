@@ -1,7 +1,6 @@
 name: Problem Report
-description: Report a problem in the specifications
+description: Report a problem or "bug" in the specifications
 labels: ["bug"]
-title: 
 body:
   - type: markdown
     attributes:
