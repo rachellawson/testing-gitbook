@@ -12,7 +12,7 @@ body:
       label: Opening questions
       description: These opening questions will help ensure you have not missed any things to check before reporting a problem in the specifications
       options:
-        - label: I have checked the [current list of issues](../) and confirm this problem has not already been reported
+        - label: I have checked the [current list of issues](/issues) and confirm this problem has not already been reported
           required: true
         - label: I agree to follow the [GovStack Code of Conduct](https://govstack.global/coc)
           required: true
