@@ -1,19 +1,9 @@
 # Code of Conduct
 
-{% hint style="info" %}
-#### Conflict Resolution vs Conduct Mangagement
-
-High performing communities should expect and, indeed, celebrate conflict - it demonstrates passion for the mission and is part of finding the best solution for problems we encounter.
-
-Often, we are able to resolve conflicts between ourselves, and we have links to great resources for doing so, but where a conflict arises that needs a third party to help resolve, the Code of Conduct team are happy to act as that third party.
-
-The Code of Conduct specifically deals not with conflict resolution but with incidents of behavior not acceptable to the community. Of course, conflict, if not managed, can lead to such behavior, so it is sometimes the case tht the Code of Conduct team will be asked to deal with incidents that have elements of both conflict resolution and behavior management.
-{% endhint %}
-
 {% hint style="warning" %}
-### To report a Code of Conduct incident
+#### To report a Code of Conduct incident
 
-If you wish to report an issue where you believe the Code of Conduct is not being followed, you can report it to the [Code of Conduct Team](../our-teams/code-of-conduct-team/) at [coc@govstack.global](mailto:coc@govstack.global).
+If you wish to report an issue where you believe the Code of Conduct is not being followed, you can report it to the Code of Conduct Team at [coc@govstack.global](mailto:coc@govstack.global).
 
 The email will be received by all members of the Code of Conduct Team.
 {% endhint %}
